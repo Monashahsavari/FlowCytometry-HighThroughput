@@ -3,7 +3,7 @@ import functions as func
 import os
 import variables as var
 # Threshold values for amplitude
-lower_150_threshold = 0.015  # Adjust as needed
+lower_150_threshold = 0.025  # Adjust as needed
 lower_200_threshold = 0.110  # Adjust as needed
 lower_300_threshold = 0.225
 # Dictionary to store the results
